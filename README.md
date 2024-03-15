@@ -9,5 +9,5 @@ My name is Miguel Certã. I am a portuguese student of Computer Science and Engi
 - 💬 Ask me about games and programming.
 - 📫 How to reach me: email me!
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I play chess since I was at least 8.
+- ⚡ Fun fact: I play chess since I was at least 8 and I'm not very good at it.
 
