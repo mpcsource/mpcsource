@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Miguel Certã. I am a portuguese student of Computer Science and Engineering, second year. 
+My name is Miguel Certã. I am a portuguese student of Computer Science and Engineering, third year. 
 
 - 🔭 I’m currently working on building a future for myself.
 - 🌱 I’m currently learning programming and other computer related topics.
