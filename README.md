@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center">Hey there, I'm Miguel</p>
 
 
 My name is Miguel Certã. I am a portuguese student of Computer Science and Engineering, third year. 
